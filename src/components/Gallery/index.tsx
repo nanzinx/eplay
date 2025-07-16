@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { GalleryItem } from '../../pages/Home'
 
 import Section from '../Section'
 
