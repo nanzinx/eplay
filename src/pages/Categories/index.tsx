@@ -1,12 +1,4 @@
-import Banner from '../../components/Banner'
 import { ProductsList } from '../../components/ProductsList'
-import { Game } from '../Home'
-
-import resident from '../../assets/images/resident.png'
-import diablo from '../../assets/images/diablo.png'
-import zelda from '../../assets/images/zelda.png'
-import starWars from '../../assets/images/star_wars.png'
-import { useEffect, useState } from 'react'
 
 import {
   useGetActionGamesQuery,
